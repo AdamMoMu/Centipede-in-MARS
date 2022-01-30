@@ -3,29 +3,12 @@
 # CSC258H Winter 2021 Assembly Final Project
 # University of Toronto, St. George
 #
-# Student: Adam Musa, 1005909073
-#
 # Bitmap Display Configuration:
 # - Unit width in pixels: 8
 # - Unit height in pixels: 8
 # - Display width in pixels: 512
 # - Display height in pixels: 512
 # - Base Address for Display: 0x10008000 ($gp)
-#
-# Which milestone is reached in this submission?
-# (See the project handout for descriptions of the milestones)
-# - Milestone 3 with bonus from 4
-#
-# Which approved additional features have been implemented?
-# (See the project handout for the list of additional features)
-# 1. Implemented Nilestone 4A, when centipede is shot it breaks into two centipedes
-# 2. Implemented Nilestone 4B, added a scoreboard that displays points. Shown in top left of window
-# 3. Implemented Nilestone 4C, added lives which decrease by one when hit and game ends when lives go to 0. Shown in top left of display
-# 4. (Unsure if additional feature) Mushrooms need 3 hits. Red Mushroom means it hasn't been hit. Orange means hit once. Brown is hit twice.
-#
-# Any additional information that the TA needs to know:
-# -Implmented bonus milestones 4A, 4B, and 4C. As described above.
-# -Implemented all the features required from milestone 1 to 3
 #
 # -Point System (influenced by original centipede): 
 #	centipede head - 100 points
