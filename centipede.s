@@ -1,7 +1,6 @@
 #####################################################################
 #
-# CSC258H Winter 2021 Assembly Final Project
-# University of Toronto, St. George
+# Submitted as a Final Project for CSC258H Winter 2021 at University of Toronto, St. George
 #
 # Bitmap Display Configuration:
 # - Unit width in pixels: 8
